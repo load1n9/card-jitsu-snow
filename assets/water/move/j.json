@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "waterninja_move_anim_0000.png",
+	"frame": {"x":373,"y":2,"w":103,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":31,"w":103,"h":137},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0001.png",
+	"frame": {"x":232,"y":93,"w":99,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":31,"w":99,"h":137},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0002.png",
+	"frame": {"x":91,"y":2,"w":93,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":29,"w":93,"h":139},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0003.png",
+	"frame": {"x":232,"y":2,"w":89,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":29,"w":89,"h":139},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0004.png",
+	"frame": {"x":2,"y":290,"w":87,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":27,"w":87,"h":141},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0005.png",
+	"frame": {"x":2,"y":2,"w":87,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":26,"w":87,"h":143},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0006.png",
+	"frame": {"x":2,"y":147,"w":87,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":29,"w":87,"h":141},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0007.png",
+	"frame": {"x":371,"y":107,"w":89,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":32,"w":89,"h":137},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0008.png",
+	"frame": {"x":228,"y":194,"w":95,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":33,"w":95,"h":135},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "waterninja_move_anim_0009.png",
+	"frame": {"x":91,"y":97,"w":101,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":33,"w":101,"h":135},
+	"sourceSize": {"w":161,"h":201}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "waterninja_move_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0bdd65e5e440b27153794328a43f89a6$"
+}
+}

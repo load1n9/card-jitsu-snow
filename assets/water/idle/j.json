@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "waterninja_idle_anim_0000.png",
+	"frame": {"x":2,"y":244,"w":129,"h":117},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":23,"w":129,"h":117},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0001.png",
+	"frame": {"x":133,"y":125,"w":129,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":23,"w":129,"h":117},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0002.png",
+	"frame": {"x":264,"y":123,"w":129,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":21,"w":129,"h":119},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0003.png",
+	"frame": {"x":133,"y":2,"w":129,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":19,"w":129,"h":121},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0004.png",
+	"frame": {"x":246,"y":244,"w":127,"h":123},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":17,"w":127,"h":123},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0005.png",
+	"frame": {"x":127,"y":373,"w":127,"h":123},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":17,"w":127,"h":123},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0006.png",
+	"frame": {"x":121,"y":244,"w":127,"h":123},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":17,"w":127,"h":123},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0007.png",
+	"frame": {"x":2,"y":375,"w":127,"h":123},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":17,"w":127,"h":123},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0008.png",
+	"frame": {"x":2,"y":2,"w":129,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":19,"w":129,"h":121},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0009.png",
+	"frame": {"x":264,"y":2,"w":129,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":21,"w":129,"h":119},
+	"sourceSize": {"w":161,"h":161}
+},
+{
+	"filename": "waterninja_idle_anim_0010.png",
+	"frame": {"x":2,"y":125,"w":129,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":23,"w":129,"h":117},
+	"sourceSize": {"w":161,"h":161}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "waterninja_idle_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5f51c0071bcb9199c3107096491c2db3$"
+}
+}

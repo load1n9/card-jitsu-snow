@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "fireninja_idle_anim_0000.png",
+	"frame": {"x":99,"y":168,"w":93,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":38,"w":93,"h":69},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0001.png",
+	"frame": {"x":99,"y":168,"w":93,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":38,"w":93,"h":69},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0002.png",
+	"frame": {"x":71,"y":71,"w":95,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":38,"w":95,"h":69},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0003.png",
+	"frame": {"x":71,"y":71,"w":95,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":38,"w":95,"h":69},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0004.png",
+	"frame": {"x":2,"y":71,"w":97,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":97,"h":67},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0005.png",
+	"frame": {"x":2,"y":71,"w":97,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":97,"h":67},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0006.png",
+	"frame": {"x":101,"y":2,"w":97,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":97,"h":67},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0007.png",
+	"frame": {"x":101,"y":2,"w":97,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":97,"h":67},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0008.png",
+	"frame": {"x":2,"y":2,"w":97,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":97,"h":67},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0009.png",
+	"frame": {"x":2,"y":2,"w":97,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":97,"h":67},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0010.png",
+	"frame": {"x":2,"y":170,"w":95,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":38,"w":95,"h":69},
+	"sourceSize": {"w":121,"h":121}
+},
+{
+	"filename": "fireninja_idle_anim_0011.png",
+	"frame": {"x":2,"y":170,"w":95,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":38,"w":95,"h":69},
+	"sourceSize": {"w":121,"h":121}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "fireninja_idle_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:06d99a9b8bd47a00616ec5fab9c61a1e$"
+}
+}

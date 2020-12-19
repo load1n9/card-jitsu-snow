@@ -1,0 +1,335 @@
+{
+	"frames": {
+		"snowninja_idle_anim_0": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_1": {
+			"frame": {
+				"x": 164,
+				"y": 1,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_2": {
+			"frame": {
+				"x": 1,
+				"y": 333,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_3": {
+			"frame": {
+				"x": 164,
+				"y": 333,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_4": {
+			"frame": {
+				"x": 327,
+				"y": 1,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_5": {
+			"frame": {
+				"x": 327,
+				"y": 84,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_6": {
+			"frame": {
+				"x": 327,
+				"y": 167,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_7": {
+			"frame": {
+				"x": 327,
+				"y": 250,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_8": {
+			"frame": {
+				"x": 327,
+				"y": 333,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_9": {
+			"frame": {
+				"x": 1,
+				"y": 416,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_10": {
+			"frame": {
+				"x": 1,
+				"y": 84,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_11": {
+			"frame": {
+				"x": 164,
+				"y": 84,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_12": {
+			"frame": {
+				"x": 1,
+				"y": 167,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_13": {
+			"frame": {
+				"x": 164,
+				"y": 167,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_14": {
+			"frame": {
+				"x": 1,
+				"y": 250,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		},
+		"snowninja_idle_anim_15": {
+			"frame": {
+				"x": 164,
+				"y": 250,
+				"w": 161,
+				"h": 81
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 161,
+				"h": 81
+			},
+			"sourceSize": {
+				"w": 161,
+				"h": 81
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 489,
+			"h": 498
+		},
+		"scale": "1"
+	}
+}

@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "snowninja_attack_anim_0000.png",
+	"frame": {"x":407,"y":2,"w":101,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":73,"w":101,"h":83},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0001.png",
+	"frame": {"x":135,"y":204,"w":127,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":37,"w":127,"h":119},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0002.png",
+	"frame": {"x":143,"y":2,"w":131,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":35,"w":131,"h":121},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0003.png",
+	"frame": {"x":2,"y":107,"w":131,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":43,"w":131,"h":113},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0004.png",
+	"frame": {"x":276,"y":2,"w":129,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":39,"w":129,"h":117},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0005.png",
+	"frame": {"x":2,"y":222,"w":125,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":43,"w":125,"h":113},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0006.png",
+	"frame": {"x":2,"y":2,"w":139,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":53,"w":139,"h":103},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0007.png",
+	"frame": {"x":276,"y":121,"w":129,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":73,"w":129,"h":83},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0008.png",
+	"frame": {"x":135,"y":125,"w":129,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":79,"w":129,"h":77},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0009.png",
+	"frame": {"x":370,"y":381,"w":113,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":81,"w":113,"h":75},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0010.png",
+	"frame": {"x":2,"y":381,"w":117,"h":77},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":79,"w":117,"h":77},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0011.png",
+	"frame": {"x":385,"y":302,"w":117,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":79,"w":117,"h":77},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0012.png",
+	"frame": {"x":264,"y":291,"w":119,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":79,"w":119,"h":77},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0013.png",
+	"frame": {"x":387,"y":223,"w":119,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":79,"w":119,"h":77},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0014.png",
+	"frame": {"x":176,"y":325,"w":113,"h":77},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":79,"w":113,"h":77},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0015.png",
+	"frame": {"x":255,"y":370,"w":113,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":81,"w":113,"h":75},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0016.png",
+	"frame": {"x":81,"y":381,"w":115,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":63,"w":115,"h":93},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0017.png",
+	"frame": {"x":264,"y":206,"w":121,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":91,"w":121,"h":83},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0018.png",
+	"frame": {"x":407,"y":156,"w":101,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":93,"w":101,"h":65},
+	"sourceSize": {"w":161,"h":201}
+},
+{
+	"filename": "snowninja_attack_anim_0019.png",
+	"frame": {"x":407,"y":87,"w":101,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":92,"w":101,"h":67},
+	"sourceSize": {"w":161,"h":201}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "snowninja_attack_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d9debfa98094af69aaf7d0f6252f695$"
+}
+}

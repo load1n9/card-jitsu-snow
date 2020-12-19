@@ -1,0 +1,19 @@
+{
+    "scale": {
+        "scaled_size": {
+            "height": "94",
+            "width": "98"
+        },
+        "scale_factor": "1",
+        "original_size": {
+            "height": "94",
+            "width": "98"
+        }
+    },
+    "crop_rect": {
+        "height": "94",
+        "y": "0",
+        "width": "98",
+        "x": "0"
+    }
+}
